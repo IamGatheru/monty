@@ -26,4 +26,4 @@ void f_sub(stack_t **head, unsigned int counter)
 	aux->next->n = sus;
 	*head = aux->next;
 	free(aux);
-}:\
+}
